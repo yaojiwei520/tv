@@ -1,1 +1,5 @@
-yao,shdsjdlsjdljsdljsdljsad
+cctv1,https://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2_md.m3u8
+cctv2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+cctv3,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+cctv4,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+cctv5,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
